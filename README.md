@@ -1,10 +1,10 @@
-1- 👋 Hi, I’m @Janca-Pieters95
-- 👀 I’m interested in ...
-3- 🌱 I’m currently learning ... R for microbia ecologist
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Janca-Pieters95
+- 👀 I’m interested in ... books and cats
+- 🌱 I’m currently learning ... R for microbia ecologist
+- 💞️ I’m looking to collaborate on ... anything in Bioogy, micro and eco
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... SHE/HER
+- ⚡ Fun fact: ... I hope to learn R
 
 <!---
 Janca-Pieters95/Janca-Pieters95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
