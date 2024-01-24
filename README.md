@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janca-Pieters95
 - 👀 I’m interested in ... books and cats
-- 🌱 I’m currently learning ... R for microbia ecologist
+- 🌱 I’m currently learning ... R as a microbial ecologist
 - 💞️ I’m looking to collaborate on ... anything in Bioogy, micro and eco
 - 📫 How to reach me ...
 - 😄 Pronouns: ... SHE/HER
